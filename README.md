@@ -12,3 +12,10 @@
 
 
 ###Commit change_2
+
+
+###Python
+
+NLP
+
+RNN
